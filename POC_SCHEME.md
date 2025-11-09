@@ -2,6 +2,11 @@
 
 This note documents the high-level workflow we use to keep Sui Quest Platform secure while letting users generate zero-knowledge proofs through the Soundness CLI. It is intentionally descriptive (not low-level) so product, ops, and engineering stakeholders share the same mental model.
 
+MY WEB PROJECT : 
+- https://connect-sphere.xyz/
+- https://connect-sphere.xyz/login
+- https://connect-sphere.xyz/register
+
 ---
 
 ## 1. Actors & Components
